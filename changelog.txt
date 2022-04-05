@@ -1,0 +1,3 @@
+TEST GIT 0.0.1 - 2022-04-05
+-------------------------------
+  * Ajout de la fonctionnalité forum effective
